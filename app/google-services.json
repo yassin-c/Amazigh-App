@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "786526007445",
+    "firebase_url": "https://amazing-quiz-4a9a9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "amazing-quiz-4a9a9",
+    "storage_bucket": "amazing-quiz-4a9a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786526007445:android:88463577fe21728d6a6b9c",
+        "android_client_info": {
+          "package_name": "com.example.amazigh_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786526007445-kq4t40ogfstrf70gfhkvi2i6b8og52u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVV8wybR7-ekImI1jwa944S85g2wJ_WNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786526007445-kq4t40ogfstrf70gfhkvi2i6b8og52u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786526007445:android:4a6ade28aa2617006a6b9c",
+        "android_client_info": {
+          "package_name": "nl.bram.amazing_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786526007445-kq4t40ogfstrf70gfhkvi2i6b8og52u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVV8wybR7-ekImI1jwa944S85g2wJ_WNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786526007445-kq4t40ogfstrf70gfhkvi2i6b8og52u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
